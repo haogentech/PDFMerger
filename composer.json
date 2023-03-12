@@ -1,5 +1,5 @@
 {
-    "name": "matfish2/pdfmerger",
+    "name": "egfl/pdfmerger",
     "version": "1.0.7",
     "description": "PDFMerger for PHP",
     "keywords": ["PHP", "PDF"],
